@@ -1,0 +1,23 @@
+﻿<UserControl x:Class="ControleDePedido.Views.MassaPickerView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ControleDePedido.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300" Background="White">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Label Grid.Row="0" Margin="0 10"  FontSize="15" FontWeight="Bold" HorizontalAlignment="Center" Foreground="{Binding ButtonColor}" VerticalAlignment="Top">Selecione uma massa:</Label>
+        <ItemsControl Grid.Row="1" Margin="10" ItemsSource="{Binding Massas}">
+            <ItemsControl.ItemTemplate>
+                <DataTemplate>
+                    <CheckBox IsChecked="{Binding Checked}" Content="{Binding Massa, Mode = OneTime}" IsEnabled="{Binding Enabled}" />
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </ItemsControl>
+    </Grid>
+</UserControl>

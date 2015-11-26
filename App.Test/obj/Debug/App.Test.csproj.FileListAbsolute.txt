@@ -1,0 +1,40 @@
+c:\Users\jgmiranda\Documents\Visual Studio 2015\Projects\FalirSpoleto\App.Test\obj\Debug\App.Test.csprojResolveAssemblyReference.cache
+c:\Users\jgmiranda\Documents\Visual Studio 2015\Projects\FalirSpoleto\App.Test\bin\Debug\App.Test.dll
+c:\Users\jgmiranda\Documents\Visual Studio 2015\Projects\FalirSpoleto\App.Test\bin\Debug\App.Test.pdb
+c:\Users\jgmiranda\Documents\Visual Studio 2015\Projects\FalirSpoleto\App.Test\bin\Debug\App.dll
+c:\Users\jgmiranda\Documents\Visual Studio 2015\Projects\FalirSpoleto\App.Test\bin\Debug\xunit.abstractions.dll
+c:\Users\jgmiranda\Documents\Visual Studio 2015\Projects\FalirSpoleto\App.Test\bin\Debug\xunit.assert.dll
+c:\Users\jgmiranda\Documents\Visual Studio 2015\Projects\FalirSpoleto\App.Test\bin\Debug\xunit.core.dll
+c:\Users\jgmiranda\Documents\Visual Studio 2015\Projects\FalirSpoleto\App.Test\bin\Debug\xunit.execution.desktop.dll
+c:\Users\jgmiranda\Documents\Visual Studio 2015\Projects\FalirSpoleto\App.Test\bin\Debug\App.pdb
+c:\Users\jgmiranda\Documents\Visual Studio 2015\Projects\FalirSpoleto\App.Test\bin\Debug\xunit.abstractions.xml
+c:\Users\jgmiranda\Documents\Visual Studio 2015\Projects\FalirSpoleto\App.Test\bin\Debug\xunit.assert.pdb
+c:\Users\jgmiranda\Documents\Visual Studio 2015\Projects\FalirSpoleto\App.Test\bin\Debug\xunit.assert.xml
+c:\Users\jgmiranda\Documents\Visual Studio 2015\Projects\FalirSpoleto\App.Test\bin\Debug\xunit.core.pdb
+c:\Users\jgmiranda\Documents\Visual Studio 2015\Projects\FalirSpoleto\App.Test\bin\Debug\xunit.core.xml
+c:\Users\jgmiranda\Documents\Visual Studio 2015\Projects\FalirSpoleto\App.Test\bin\Debug\xunit.execution.desktop.pdb
+c:\Users\jgmiranda\Documents\Visual Studio 2015\Projects\FalirSpoleto\App.Test\bin\Debug\xunit.execution.desktop.xml
+c:\Users\jgmiranda\Documents\Visual Studio 2015\Projects\FalirSpoleto\App.Test\obj\Debug\App.Test.dll
+c:\Users\jgmiranda\Documents\Visual Studio 2015\Projects\FalirSpoleto\App.Test\obj\Debug\App.Test.pdb
+c:\Users\jgmiranda\Documents\Visual Studio 2015\Projects\FalirSpoleto\App.Test\bin\Debug\Newtonsoft.Json.dll
+c:\Users\jgmiranda\Documents\Visual Studio 2015\Projects\FalirSpoleto\App.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jgmiranda\Documents\Source\ProjetoAutomacao\App.Test\bin\Debug\App.Test.dll
+C:\Users\jgmiranda\Documents\Source\ProjetoAutomacao\App.Test\bin\Debug\App.Test.pdb
+C:\Users\jgmiranda\Documents\Source\ProjetoAutomacao\App.Test\bin\Debug\App.dll
+C:\Users\jgmiranda\Documents\Source\ProjetoAutomacao\App.Test\bin\Debug\xunit.abstractions.dll
+C:\Users\jgmiranda\Documents\Source\ProjetoAutomacao\App.Test\bin\Debug\xunit.assert.dll
+C:\Users\jgmiranda\Documents\Source\ProjetoAutomacao\App.Test\bin\Debug\xunit.core.dll
+C:\Users\jgmiranda\Documents\Source\ProjetoAutomacao\App.Test\bin\Debug\xunit.execution.desktop.dll
+C:\Users\jgmiranda\Documents\Source\ProjetoAutomacao\App.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jgmiranda\Documents\Source\ProjetoAutomacao\App.Test\bin\Debug\App.pdb
+C:\Users\jgmiranda\Documents\Source\ProjetoAutomacao\App.Test\bin\Debug\xunit.abstractions.xml
+C:\Users\jgmiranda\Documents\Source\ProjetoAutomacao\App.Test\bin\Debug\xunit.assert.pdb
+C:\Users\jgmiranda\Documents\Source\ProjetoAutomacao\App.Test\bin\Debug\xunit.assert.xml
+C:\Users\jgmiranda\Documents\Source\ProjetoAutomacao\App.Test\bin\Debug\xunit.core.pdb
+C:\Users\jgmiranda\Documents\Source\ProjetoAutomacao\App.Test\bin\Debug\xunit.core.xml
+C:\Users\jgmiranda\Documents\Source\ProjetoAutomacao\App.Test\bin\Debug\xunit.execution.desktop.pdb
+C:\Users\jgmiranda\Documents\Source\ProjetoAutomacao\App.Test\bin\Debug\xunit.execution.desktop.xml
+C:\Users\jgmiranda\Documents\Source\ProjetoAutomacao\App.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jgmiranda\Documents\Source\ProjetoAutomacao\App.Test\obj\Debug\App.Test.csprojResolveAssemblyReference.cache
+C:\Users\jgmiranda\Documents\Source\ProjetoAutomacao\App.Test\obj\Debug\App.Test.dll
+C:\Users\jgmiranda\Documents\Source\ProjetoAutomacao\App.Test\obj\Debug\App.Test.pdb

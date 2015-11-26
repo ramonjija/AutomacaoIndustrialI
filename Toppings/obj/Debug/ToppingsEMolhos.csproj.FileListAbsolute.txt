@@ -1,0 +1,10 @@
+C:\Users\jgmiranda\Documents\Source\ProjetoAutomacao\Toppings\obj\Debug\ToppingsEMolhos.csprojResolveAssemblyReference.cache
+C:\Users\jgmiranda\Documents\Source\ProjetoAutomacao\Toppings\bin\Debug\Toppings.exe.config
+C:\Users\jgmiranda\Documents\Source\ProjetoAutomacao\Toppings\bin\Debug\Toppings.exe
+C:\Users\jgmiranda\Documents\Source\ProjetoAutomacao\Toppings\bin\Debug\Toppings.pdb
+C:\Users\jgmiranda\Documents\Source\ProjetoAutomacao\Toppings\bin\Debug\App.dll
+C:\Users\jgmiranda\Documents\Source\ProjetoAutomacao\Toppings\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jgmiranda\Documents\Source\ProjetoAutomacao\Toppings\bin\Debug\App.pdb
+C:\Users\jgmiranda\Documents\Source\ProjetoAutomacao\Toppings\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jgmiranda\Documents\Source\ProjetoAutomacao\Toppings\obj\Debug\Toppings.exe
+C:\Users\jgmiranda\Documents\Source\ProjetoAutomacao\Toppings\obj\Debug\Toppings.pdb
